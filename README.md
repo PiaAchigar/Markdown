@@ -61,7 +61,7 @@ This is a ~~strikethrough~~
 <!--GITHUB Markdown-->
 
 - [x] Task 1
-- [] Task 2
+- [ ] Task 2
 - [x] Task 3
-- [x] Task 4
+- [ ] Task 4
 - [x] Task 5
