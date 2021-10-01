@@ -1,8 +1,8 @@
 <!--Headings-->
 
-# Sintaxis Markdown (h1)
+# Sintaxis Markdown (H1)
 
-## My title h2
+## H2
 
 ### H3
 
@@ -40,24 +40,28 @@ This is a ~~strikethrough~~
 > Esto es una cita
 
 <!--Agrego codigo, y le especifico de que lenguaje para que lo pinte-->
+
 ```html
 <html>
-...
+  ...
 </html>
 ```
 
 <!--Tablas-->
-| First Header  | Second Header |
- ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
+| First Header | Second Header |
+| ------------ | ------------- |
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
 
 <!--Images o Videos-->
 
 ![visual studio code logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png "ToolTip-VSC")
 
-
-
 <!--GITHUB Markdown-->
 
-* [x] Task 1
+- [x] Task 1
+- [] Task 2
+- [x] Task 3
+- [x] Task 4
+- [x] Task 5
